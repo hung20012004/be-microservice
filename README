@@ -1,0 +1,6 @@
+# Build và chạy
+docker-compose up --build -d
+
+# Hoặc build riêng rồi chạy
+docker-compose build
+docker-compose up -d
